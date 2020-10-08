@@ -1,12 +1,10 @@
 import React from 'react'
-import { AboutBody } from './components/AboutBody'
 import {PageHeader} from './components/PageHeader'
 
-export const About = () => {
+export const JoinUs = () => {
     return (
         <div>
             <PageHeader title='About us' />
-            <AboutBody />
         </div>
     )
 }

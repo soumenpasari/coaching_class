@@ -7,9 +7,9 @@ export const MainFooter = () => {
                 <div class="container">
                     <ul>
                     <li class="is-active"><a href='/'>Home</a></li>
-                    <li><a href='/'>Why to join us</a></li>
-                    <li><a href='/'>About us</a></li>
-                    <li><a href='/'>Contact us</a></li>
+                    <li><a href='/joinus'>Why to join us</a></li>
+                    <li><a href='/about'>About us</a></li>
+                    <li><a href='/contact'>Contact us</a></li>
                     </ul>
                 </div>
             </nav>

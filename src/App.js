@@ -9,6 +9,7 @@ import {Navbar} from './components/Navbar';
 import { MainBodyWrapper } from './components/MainBodyWrapper';
 import { About } from './About';
 import { ContactUs } from './ContactUs';
+import { JoinUs } from './JoinUs';
 
 function App() {
   return (
@@ -24,6 +25,9 @@ function App() {
           )} />
           <Route exact path='/contact' render={props => (
             <ContactUs />
+          )} />
+          <Route exact path='/joinus' render={props => (
+            <JoinUs />
           )} />
         </Switch>
       </div>
