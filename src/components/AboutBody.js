@@ -17,7 +17,7 @@ export const AboutBody = () => {
                                 <p>
                                 Practice, persistence and performance when inculcated in the meticulous guidance of master minds are sure to produce the output of excellence in terms of career and development of holistic personality, and this is the main objective of a brand called concentric.
                                 </p>
-                                <p>Necessity is the Mother of invention but here it is the Mother of Miracle. A Miracle which has grown manifold - CONCENTRIC INSTITUTE. CONCENTRIC Institute is a pioneer institute in the field of coaching for Competitive Exams.founded on 14th July, 2020 by Mr N.K.Anand,  M.tech,Osean Engineering from IIT Madras. Coming from an obscure village  to becoming the top educationist in the field of education.</p>
+                                <p>Necessity is the Mother of invention but here it is the Mother of Miracle. A Miracle which has grown manifold - CONCENTRIC INSTITUTE. CONCENTRIC Institute is a pioneer institute in the field of coaching for Competitive Exams.founded on 14th July, 2020 by Mr N.K.Anand,  M.tech, from IIT Madras. Coming from an obscure village  to becoming the top educationist in the field of education.</p>
                                 <p>I know very well that in a hurry concentric will become a synonym of success.</p>
                                 <p>
                                     <ol>
@@ -52,7 +52,7 @@ export const AboutBody = () => {
                             </div>
                             <div className='box'>
                                 <h2>RESEARCH & DEVELOPMENT</h2>
-                                <p>Our Research and Development team works round the clock to ensure that our teaching methodology, study material and course structure is constantly updated. This committed team keeps a keen eye on the latest developments and changes in the JEE Advanced, JEE Main, other prestigious Engineering Entrance Exams / Olympiads / NTSE / KVPY and swiftly incorporates them in our course curriculum.</p>
+                                <p>Our Research and Development team works round the clock to ensure that our teaching methodology, study material and course structure is constantly updated. This committed team keeps a keen eye on the latest developments and changes in the JEE Advanced, JEE Main, other prestigious Engineering Entrance Exams/ NEET / AIIMS / Olympiads / NTSE / KVPY and swiftly incorporates them in our course curriculum.</p>
                             </div>
                         </div>
                     </div>

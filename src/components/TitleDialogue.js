@@ -23,9 +23,9 @@ export const TitleDialogue = () => {
                 ADMISSIONS ARE OPEN!
             </h2>
             <hr className='dark-hr' />
-            <p className='has-text-dark'>For more information</p>
-            <p className='has-text-dark'>Call us : +91 9160121943</p>
-            <p className='has-text-dark'>Email us : concentric.group007@gmail.com</p>
+            <p className='has-text-light'>For more information</p>
+            <p className='has-text-light'>Call us : +91 9160121943</p>
+            <p className='has-text-light'>Email us : concentric.group007@gmail.com</p>
         </div>
     )
 }
